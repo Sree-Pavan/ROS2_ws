@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gsp/Github_repos/ROS2_ws/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -o CMakeFiles/Dev.dir/Dev.cpp.o -c /home/gsp/Github_repos/ROS2_ws/Dev.cpp",
+  "file": "/home/gsp/Github_repos/ROS2_ws/Dev.cpp"
+}
+]

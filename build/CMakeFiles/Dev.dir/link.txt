@@ -1,0 +1,2 @@
+/usr/bin/aarch64-linux-gnu-ar qc libDev.a CMakeFiles/Dev.dir/Dev.cpp.o
+/usr/bin/aarch64-linux-gnu-ranlib libDev.a
